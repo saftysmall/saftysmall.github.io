@@ -1,0 +1,46 @@
+body {
+  background-image: url("ji.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size:1450px 900px;
+}
+h1{
+	color: orange ;
+	font: 50px italic, sans-serif;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+	h1 {
+    padding-top: 270px;
+    margin:20px 20px ;
+}
+.btn{
+	margin: 50px 370px  ;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 50px;
+    padding: 12px 70px ; 
+}
+.btn-primary {
+	background-color: #170af5;
+	border-color: #170af5;
+
+}
+.btn-primary:hover { 
+	background-color: #3ed32c
+	border-color:#3ed32c;
+ }
+
+
+
+
+
+
+///*.btn-outline-primary{
+	font-weight: 500px ;
+	border-radius: 300px;
+	text-transform: uppercase;
+	background-color: blue ;
+	padding: 12px 50px ;
+}
+
